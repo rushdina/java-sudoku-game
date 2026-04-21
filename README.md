@@ -31,7 +31,7 @@ sudoku/
 ├── GameBoard.java       // Core game board and logic
 ├── Puzzle.java          // Puzzle generation and cell hiding logic
 ├── Cell.java            // Represents each Sudoku cell (value + state)
-├── CellStatus.java      // Enum for managing cell states
+├── CellStatus.java      // Enum managing cell states
 ├── AudioManager.java    // Handles audio loading and playback
 ```
 
