@@ -1,6 +1,6 @@
 # 🧩 Java Sudoku Game
 
-A desktop-based Sudoku game built with Java Swing, designed with strong object-oriented principles and clean separation of concerns. The application features multiple game modes, real-time validation, background music, and a timer system to enhance user experience.
+A desktop-based Sudoku game built with Java Swing, designed with object-oriented programming principles and clean separation of concerns. The application features multiple game modes, real-time validation, background music, and a timer system to enhance user experience.
 
 ## 🎥 Demo
 ▶️ Click to watch a short walkthrough of the gameplay, including puzzle interaction, validation, and completion flow:
