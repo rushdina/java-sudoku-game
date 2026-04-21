@@ -4,7 +4,7 @@ A desktop-based Sudoku game built with Java Swing, designed with strong object-o
 
 ## 🎥 Demo
 
-[![Watch Sudoku Demo](assets/demo/sudoku-demo-thumbnail.png)](https://github.com/rushdina/java-sudoku-game/blob/main/assets/demo/sudoku-demo.mp4)
+[![Watch Sudoku Demo](src/assets/demo/sudoku-demo-thumbnail.png)](https://github.com/rushdina/java-sudoku-game/blob/main/src/assets/demo/sudoku-demo.mp4)
 
 ## 🛠️ Technologies Used
 
