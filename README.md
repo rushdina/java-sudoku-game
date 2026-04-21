@@ -3,9 +3,9 @@
 A desktop-based Sudoku game built with Java Swing, designed with strong object-oriented principles and clean separation of concerns. The application features multiple game modes, real-time validation, background music, and a timer system to enhance user experience.
 
 ## 🎥 Demo
-A short walkthrough of the gameplay, including puzzle interaction, validation, and completion flow:
+Click to watch a short walkthrough of the gameplay, including puzzle interaction, validation, and completion flow:
 
-▶️ [Watch Sudoku Demo](https://youtu.be/8nav2S8SSgQ)
+▶️ [![Watch Sudoku Demo](src/assets/demo/sudoku-demo-thumbnail.png)](https://youtu.be/8nav2S8SSgQ)
 
 ## 🛠️ Technologies Used
 
