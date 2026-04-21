@@ -4,7 +4,7 @@ A desktop-based Sudoku game built with Java Swing, designed with strong object-o
 
 ## 🎥 Demo
 
-[![Watch Sudoku Demo](assets/demo/sudoku-demo-thumbnail.png)](assets/demo/sudoku-demo.mp4)
+[▶️ Watch Sudoku Demo Video](assets/demo/sudoku-demo.mp4)
 
 ## 🛠️ Technologies Used
 
@@ -93,7 +93,7 @@ to ensure execution on the Event Dispatch Thread (EDT)
 
 ```bash
 git clone https://github.com/<your-username>/java-sudoku-game.git
-cd <repository>
+cd java-sudoku-game
 ```
 
 ### ▶️ Using an IDE
