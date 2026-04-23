@@ -1,4 +1,4 @@
-# 🧩 Java Sudoku Game
+# 🧩 Sudoku Game Java Application
 
 A desktop-based Sudoku game built with `Java Swing`, designed with object-oriented programming principles and clean separation of concerns. The application features multiple game modes, real-time validation, background music, and a timer system to enhance user experience.
 
@@ -41,7 +41,7 @@ sudoku/
 
 - Separation of responsibilities across classes (UI, logic, audio)
 - Encapsulation of game state using CellStatus enum
-- Callback mechanism (setOnPuzzleSolved) for event handling
+- Callback mechanism (`setOnPuzzleSolved`) for event handling
 
 **Game Logic**
 
@@ -140,5 +140,5 @@ java sudoku.SudokuMain
 
 ## 📌 Notes
 
-- This is a desktop application built using Java Swing and is not deployed as a web app.
-- The application runs locally via the JVM.
+- This is a desktop application built using `Java Swing` and is not deployed as a web app.
+- The application runs locally via the `JVM`.
